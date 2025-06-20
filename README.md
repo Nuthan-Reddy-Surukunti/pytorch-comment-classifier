@@ -3,7 +3,6 @@
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python)](https://python.org)
 [![PyTorch](https://img.shields.io/badge/PyTorch-Lightning-red?style=for-the-badge&logo=pytorch)](https://pytorch.org)
 [![HuggingFace](https://img.shields.io/badge/🤗-Transformers-yellow?style=for-the-badge)](https://huggingface.co)
-[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
 > 🎓 **Learning Project**: Exploring NLP and PyTorch through multi-label text classification
 
@@ -178,10 +177,6 @@ I'm always eager to learn! If you have suggestions, improvements, or want to dis
 - 🐙 **GitHub Issues**: Create an issue for discussions
 - 💡 **Ideas Welcome**: Share your thoughts on improvements!
 
----
-
-## 📜 **License**
-This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
